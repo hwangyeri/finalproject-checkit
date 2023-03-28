@@ -48,9 +48,9 @@
 
 ## 2. 주요 기능과 구현 영상
 
-|<img src="https://user-images.githubusercontent.com/114602459/219415770-1c2fc0ba-bf89-4c06-b406-cfd7b97e7d9a.gif" width=200></img>|<img src="https://user-images.githubusercontent.com/114602459/219415926-9f99b934-9f61-4426-a65e-a417e7dcdad3.gif" width=200></img>|
+|<img src="https://user-images.githubusercontent.com/114602459/228180762-fc73ab44-00ae-4c6f-a0f8-438dadf82fa8.gif" width=250></img>|<img src="https://user-images.githubusercontent.com/114602459/219415926-9f99b934-9f61-4426-a65e-a417e7dcdad3.gif" width=250></img>|
 |:-:|:-:|
-|`0. Onboarding, Login`|`1. Calendar View`|
+|`0. Onboarding, Login View`|`1. Calendar View`|
 
 <br>
 
