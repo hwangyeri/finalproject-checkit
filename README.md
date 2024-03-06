@@ -1,4 +1,6 @@
 # Check It !
+<img width="70" alt="스크린샷 2024-03-07 오전 1 41 54" src="https://github.com/hwangyeri/finalproject-checkit/assets/114602459/76a86ff4-c044-4d67-b3c3-af8ea43ce061">
+
 ### 오프라인 동아리 출석 관리는 체킷
 <br/>
 
