@@ -27,6 +27,11 @@
 - 날짜별 동아리 일정 관리 기능 (캘린더)
 <br/>
 
+### 앱 스토어 링크
+🔗 [ 클릭하면 앱스토어로 이동합니다. Check It ! ](https://apps.apple.com/kr/app/check-it/id1671302814https://apps.apple.com/kr/app/check-it/id1671302814)
+
+<br/>
+
 ## 개발 환경
 - **최소 버전** : iOS 16.0
 - **개발 인원** : 5명
