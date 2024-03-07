@@ -28,7 +28,7 @@
 <br/>
 
 ### 앱 스토어 링크
-🔗 [ 클릭하면 앱스토어로 이동합니다. Check It ! ](https://apps.apple.com/kr/app/check-it/id1671302814https://apps.apple.com/kr/app/check-it/id1671302814)
+🔗 [ 클릭하면 앱스토어로 이동합니다. Check It ! ](https://apps.apple.com/kr/app/check-it/id1671302814)
 
 <br/>
 
